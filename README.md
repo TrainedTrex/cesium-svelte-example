@@ -1,5 +1,7 @@
 # Cesium SvelteKit Example
 
+![Cesium](./static/CesiumJS_light_color.svg)
+
 A minimal example showing how to integrate CesiumJS with SvelteKit.
 
 ## Overview
